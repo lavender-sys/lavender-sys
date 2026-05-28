@@ -20,6 +20,8 @@ nixos is cool
 
 i have lots of squishmallows from my girlfriend
 
+this account is mostly leah as of may 2026
+
 <!--
 **catgirlinspace/catgirlinspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
